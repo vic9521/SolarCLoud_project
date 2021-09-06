@@ -13,10 +13,13 @@
 ## SWOT ANALYSIS
 **Strength**
 -- User can have all the banking Activities.
+
 **Weakness**
 -- If the password is wrong No activities can be done.
+
 **Opportunity**
 -- user can Deposit, withdraw amount and can view details.
+
 **Threats**
 -- If the password is wrong No activities can be done.
 
