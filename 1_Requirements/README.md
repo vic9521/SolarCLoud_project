@@ -47,8 +47,9 @@
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
+----- | ------------|---------------------------
+HLR1| System Shall be able to open new Account | Implemented
 
 
 ##  Low level Requirements:
