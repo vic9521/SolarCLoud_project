@@ -17,7 +17,7 @@
 
 ## Who:
 
-**Everyone can use the bank management system who want to have benifit of banking. **
+**Everyone can use the bank management system who want to have benifit of banking.**
 
 ## What:
 
