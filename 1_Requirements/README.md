@@ -1,37 +1,46 @@
-Requirements
-Introduction
---- Bank Management system : with this project, user can perform banking activities like in real bank. This perticular file contains all the details of reuirement collection from user end.
+# Requirements
+## Introduction
+ --- TBD 
 
-Research
-![Description](Link to Pic) -- Content
-
-Cost and Features and Timeline
-![Description](Link to Pic) -- Content
-
-Defining Our System
--- TBD
-SWOT ANALYSIS
+## Research
+![Description](Link to Pic)
+-- Content 
+## Cost and Features and Timeline
+![Description](Link to Pic)
+-- Content 
+## Defining Our System
+    -- TBD
+## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
-4W's and 1'H
-Who:
-TBD
+# 4W&#39;s and 1&#39;H
 
-What:
-TBD
+## Who:
 
-When:
-TBD
+**TBD**
 
-Where:
-TBD
+## What:
 
-How:
-TBD
+**TBD**
 
-Detail requirements
-High Level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+## When:
 
-Low level Requirements:
---- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
+**TBD**
+
+## Where:
+
+**TBD**
+
+## How:
+
+**TBD**
+
+# Detail requirements
+## High Level Requirements:
+--- TBD in Tabular Format 
+-- ID | Description | Status (Implemented/Future)
+
+
+##  Low level Requirements:
+--- TBD in Tabular Format 
+-- ID | Description | Status (Implemented/Future)
