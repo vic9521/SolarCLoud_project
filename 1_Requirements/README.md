@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+ --- Bank Management system : with this project, user can perform banking activities like in real bank. This perticular file contains all the details of reuirement collection from user end.
 
 ## Research
 ![Description](Link to Pic)
