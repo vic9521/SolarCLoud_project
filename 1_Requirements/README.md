@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- Bank Management system : with this project, user can perform banking activities like in real bank. This perticular file contains all the details of reuirement collection from user end.
+ --- Bank Management system : With this project, user can perform banking activities like in real bank. This perticular file contains all the details of reuirement collection from user end.
 
 ## Research
 ![Description](Link to Pic)
@@ -17,7 +17,7 @@
 
 ## Who:
 
-**TBD**
+**Everyone can use the bank management system who want to have benifit of banking. **
 
 ## What:
 
@@ -29,11 +29,11 @@
 
 ## Where:
 
-**TBD**
+**User can can access this application using any C compiler.**
 
 ## How:
 
-**TBD**
+**Implementation is done using C language. And also used multifile concept.**
 
 # Detail requirements
 ## High Level Requirements:
