@@ -11,7 +11,14 @@
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+**Strength**
+-- User can have all the banking Activities.
+**Weakness**
+-- If the password is wrong No activities can be done.
+**Opportunity**
+-- user can Deposit, withdraw amount and can view details.
+**Threats**
+-- If the password is wrong No activities can be done.
 
 # 4W&#39;s and 1&#39;H
 
@@ -21,7 +28,7 @@
 
 ## What:
 
-**TBD**
+**Bank management sysem is mainly concerned to Cover the major Banking activities in sigle application.**
 
 ## When:
 
