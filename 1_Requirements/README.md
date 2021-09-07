@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- Bank Management system : With this project, user can perform banking activities like in real bank. This perticular file contains all the details of reuirement collection from user end.
+ --- Bank Management system : With this project, user can perform banking activities like in real bank. This perticular file contains all the details of requirement collection from user end.
 
 ## Research
 ![Description](Link to Pic)
