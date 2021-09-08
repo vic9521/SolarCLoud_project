@@ -36,7 +36,7 @@ Mini project using c language
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-99006046| Ankita Nagaraj Kondagoli  | Bank-management System    | X No     | X No   | 8  | 8    
+99006046| Ankita Nagaraj Kondagoli  | Bank-management System    | 2    | 2   | 8  | 8    
      
 
 ## Challenges Faced and How Was It Overcome
