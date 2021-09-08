@@ -8,6 +8,8 @@ Mini project using c language
 
 ![Code incpector](https://www.code-inspector.com/project/28048/status/svg)
 
+![](https://img.shields.io/github/issues/ankitakondagoli/stepin_Bank-Management?style=flat-square)
+
 
 ## Folder	Description
  Folder Name | Description
