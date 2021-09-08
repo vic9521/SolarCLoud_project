@@ -20,6 +20,8 @@ Mini project using c language
 
 [![Unit Testing](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml)
 
+[![Code Quality-Cppcheck](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/cppcheck.yml)
+
 ## Folder	Description
  Folder Name | Description
  ------------|---------------------------
