@@ -18,6 +18,8 @@ Mini project using c language
 
 [![Git Inspector](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml)
 
+[![Unit Testing](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml)
+
 ## Folder	Description
  Folder Name | Description
  ------------|---------------------------
