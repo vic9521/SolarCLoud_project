@@ -30,3 +30,22 @@ Mini project using c language
 3_Implementation	|All code and documentation
 4_TestPlanAndOutput|	Documents with test plans and procedures
 
+
+
+## Contributors List and Summary
+
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+99006046| Ankita Nagaraj Kondagoli  | Bank-management System    | X No     | X No   |   |     
+     
+
+## Challenges Faced and How Was It Overcome
+
+1. Applying unit concept was quite challenging.
+
+
+## Learning Resources
+1. Futureskill reference videos.
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
