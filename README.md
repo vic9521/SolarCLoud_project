@@ -10,6 +10,7 @@ Mini project using c language
 
 ![](https://img.shields.io/github/issues/ankitakondagoli/stepin_Bank-Management?style=flat-square)
 
+[![CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml)
 
 ## Folder	Description
  Folder Name | Description
