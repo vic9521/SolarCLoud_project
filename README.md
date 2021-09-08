@@ -16,6 +16,8 @@ Mini project using c language
 
 [![C/C++ CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml)
 
+[![Git Inspector](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml)
+
 ## Folder	Description
  Folder Name | Description
  ------------|---------------------------
