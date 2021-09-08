@@ -14,6 +14,8 @@ Mini project using c language
 
 [![Valgrind](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml)
 
+[![C/C++ CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml)
+
 ## Folder	Description
  Folder Name | Description
  ------------|---------------------------
