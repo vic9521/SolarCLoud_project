@@ -12,7 +12,6 @@ Mini project using c language
 
 [![CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml)
 
-[![C/C++ CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-cpp.yml)
 
 ## Folder	Description
  Folder Name | Description
