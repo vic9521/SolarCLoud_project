@@ -2,14 +2,7 @@
 ## Introduction
  --- Bank Management system : With this project, user can perform banking activities like in real bank. This perticular file contains all the details of requirement collection from user end.
 
-## Research
-![Description](Link to Pic)
--- Content 
-## Cost and Features and Timeline
-![Description](Link to Pic)
--- Content 
-## Defining Our System
-    -- TBD
+
 ## SWOT ANALYSIS
 **Strength**
 -- User can have all the banking Activities.
