@@ -12,7 +12,7 @@ Mini project using c language
 
 [![CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml)
 
-
+[![Valgrind](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml)
 
 ## Folder	Description
  Folder Name | Description
